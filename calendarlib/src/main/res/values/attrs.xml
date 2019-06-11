@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DatePickerView">
+        <attr format="color" name="colorCurrentDay"/>
+        <attr format="color" name="colorSelectedDayBackground"/>
+        <attr format="color" name="colorSelectedDayText"/>
+        <attr format="color" name="colorPreviousDay"/>
+        <attr format="color" name="colorNormalDay"/>
+        <attr format="color" name="colorMonthName"/>
+        <attr format="color" name="colorDayName"/>
+        <attr format="dimension" name="textSizeDay"/>
+        <attr format="dimension" name="textSizeMonth"/>
+        <attr format="dimension" name="textSizeDayName"/>
+        <attr format="dimension" name="headerMonthHeight"/>
+        <attr format="dimension" name="selectedDayRadius"/>
+        <attr format="dimension" name="inquiryStatusRadius"/>
+        <attr format="dimension" name="calendarHeight"/>
+        <attr format="boolean" name="enablePreviousDay"/>
+        <attr format="boolean" name="currentDaySelected"/>
+        <attr format="boolean" name="enableMultiSelect"/>
+        <attr format="boolean" name="enableDaySelect"/>
+        <attr format="enum" name="firstMonth">
+            <enum name="january" value="1"/>
+            <enum name="february" value="2"/>
+            <enum name="march" value="3"/>
+            <enum name="april" value="4"/>
+            <enum name="may" value="5"/>
+            <enum name="june" value="6"/>
+            <enum name="july" value="7"/>
+            <enum name="august" value="8"/>
+            <enum name="september" value="9"/>
+            <enum name="october" value="10"/>
+            <enum name="november" value="11"/>
+            <enum name="december" value="12"/>
+        </attr>
+        <attr format="enum" name="lastMonth">
+            <enum name="january" >/>
+            <enum name="february" value="2"/>
+            <enum name="march" value="3"/>
+            <enum name="april" value="4"/>
+            <enum name="may" value="5"/>
+            <enum name="june" value="6"/>
+            <enum name="july" value="7"/>
+            <enum name="august" value="8"/>
+            <enum name="september" value="9"/>
+            <enum name="october" value="10"/>
+            <enum name="november" value="11"/>
+            <enum name="december" value="12"/>
+        </attr>
+    </declare-styleable>
+</resources>

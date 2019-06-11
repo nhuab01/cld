@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="normal_day">#1a1a1a</color>
+    <color name="selected_days_background">#eb5bafa2</color>
+    <color name="selected_day_text">#fff2f2f2</color>
+    <color name="current_day">#5bafa2</color>
+    <color name="sunday_text">#d0021b</color>
+    <color name="saturday_text">#5fa8cb</color>
+    <color name="day_of_week_text">#1b1b1b</color>
+    <color name="previous_day">#9b9b9b</color>
+    <color name="reservation_status">#9b9b9b</color>
+</resources>

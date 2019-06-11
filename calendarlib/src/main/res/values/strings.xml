@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalendarLib</string>
+    <!--<string name="icon_close">&#xf2d7;</string>-->
+    <string name="icon_close">&#xf12a;</string>
+</resources>
